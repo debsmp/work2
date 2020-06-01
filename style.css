@@ -1,0 +1,72 @@
+body {
+	background-color: #ffffff;
+	font-family: 'Oxygen' ,sans-serif;
+}
+#header-nav {
+	background-color: #f6b319;
+	border-radius: 0;
+	border:2px;
+}
+
+.navbar-brand h1 {
+	font-family: 'Lora', serif;
+	color: #557c3e;
+	font-size: 1.5em;
+	text-transform: uppercase;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #222;
+	margin-top: 0;
+	margin-bottom: 0;
+	line-height: .75;
+}
+.navbar-brand a: hover, .navbar-brand a: focus {
+	text-decoration: none;
+
+}
+#collapsable-nav a {
+	font-weight: bold;
+	color: black;
+	font-size: 1.2em;
+}
+#collapsable-nav a:hover {
+	background-color: #fce29e;
+	font-style: Oxygen;
+}
+.navbar-details a {
+	font-style: Oxygen;
+	text-align: center;
+	font-weight: bold;
+
+
+}
+.navbar-details .navbar-menu a {
+	font-weight: bold;
+	color: black;
+	font-style: Oxygen;
+	text-align: center;
+}
+#Chicken-tiles h2, #Beef-tiles h2, #Sushi-tiles h2 {
+	font-weight: bold;
+	color: black;
+	font-style: Oxygen;
+	text-align: center;
+	background-color: #fce29e;
+
+}
+.navbar-details section {
+	background-color: #61122f;
+}
+#Chicken-tiles p,#Beef-tiles p,#Sushi-tiles p {
+	padding: 20px;
+	color: #ffffff;
+}
+.navbar-details #Chicken-tiles,.navbar-details #Beef-tiles,.navbar-details #Sushi-tiles {
+    width: 100%;
+    margin: 20px;
+    box-shadow: 0 0 20px #18580b;
+}
+#nav-list li {
+	border: 2px;
+}
+
+
